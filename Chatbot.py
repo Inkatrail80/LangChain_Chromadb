@@ -132,7 +132,8 @@ def main():
     }
     database_options = persist_directories.keys()
     selected_directory = st.sidebar.selectbox("Select topic", database_options ,placeholder="Choose an option")
-    st.header(selected_directory)
+    theme_selected_directory = selected_directory.split('_')[1]
+    st.subheader(f"Ask your questions about the topic: {theme_selected_directory}")
     metadata_file = persist_directories[selected_directory]
     
     tab1, tab2 = st.tabs(["Chatbot", "Metadata"])
