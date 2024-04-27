@@ -108,7 +108,7 @@ def main():
         .reportview-container {
             margin-top: -2em;
         }
-        .button[kind="header"] {visibility:hidden;}
+        button[kind="header"] {visibility:hidden;}
         #MainMenu {visibility: hidden;}
         .stDeployButton {display:none;}
         footer {visibility: hidden;}
