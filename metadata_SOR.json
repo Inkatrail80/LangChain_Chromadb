@@ -17,6 +17,9 @@
         "guideline_beschaffungs_Beauftragte_des_eda_de.pdf",
         "guideline_beschaffungs_Beauftragte_des_eda_en.pdf",
         "guideline_beschaffungs_Beauftragte_des_eda_fr.pdf",
+        "How-to-note_SOR_FR.pdf",
+        "How-to_Note_SOR_DE.pdf",
+        "How-to_Note_SOR_EN.pdf",
         "Invitations to tender_WEB.pdf",
         "Legal requirements for procurement_WEB.pdf",
         "Mandate-agreement-project-implementation-offer-form-2_en.pdf",
@@ -32,8 +35,10 @@
         "unbefangenheitserklaerung-generell_DE.pdf",
         "unbefangenheitserklaerung-generell_EN.pdf",
         "unbefangenheitserklaerung-generell_FR.pdf",
-        "Verhaltenskodex-fuer-Vertragspartner-EDA_EN.pdf"
+        "Verhaltenskodex-fuer-Vertragspartner-EDA_EN.pdf",
+        "Vertragsmodell f\u00fcr PDA_DE.pdf",
+        "Vertragsmodell f\u00fcr PDA_EN.pdf"
     ],
-    "total_docs_loaded": 33,
-    "total_pages_loaded": 392
+    "total_docs_loaded": 38,
+    "total_pages_loaded": 465
 }
