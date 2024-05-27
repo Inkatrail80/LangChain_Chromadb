@@ -135,7 +135,7 @@ def main():
     selected_directory = st.sidebar.selectbox("Select topic", database_options ,placeholder="Choose an option")
     theme_selected_directory = selected_directory.split('_')[1]
     st.subheader(f"Ask your questions about the topic: {theme_selected_directory}")
-    st.text(f"Relevant documents can be found in the metadata description")
+    st.text(f"Related documents (open data) can be found in the metadata description")
     metadata_file = persist_directories[selected_directory]
     
     tab1, tab2 = st.tabs(["Chatbot", "Metadata"])

@@ -124,7 +124,7 @@ input{
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://cdn-images-1.medium.com/max/1600/1*HeS-VZ5_EA4TqfUGS5YN7A.jpeg" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
+        <img src="https://www.isportconnect.com/wp-content/uploads/2023/04/happy-robot-1024x683.jpg" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
     </div>
     <div class="bot-message message">
     <p class="message-text-bot">{{MSG}}</p>
@@ -146,7 +146,7 @@ source_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/coat-of-arms-and-flag-of-switzerland-serge-averbukh.jpg">
+        <img src="https://cdn12.picryl.com/photo/2016/12/31/ball-question-mark-man-people-446773-1024.jpg">
     </div>    
     <div class="user-message message">
     <p class="message-text-user">{{MSG}}</p></div>
